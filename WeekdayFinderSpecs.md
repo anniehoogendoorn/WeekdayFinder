@@ -1,4 +1,4 @@
 WeekdayFinder Specs
 
-1. get date and display day of the week
-input: 
+1. Get and display day of the week
+        input:
